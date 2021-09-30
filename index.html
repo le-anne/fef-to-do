@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ToDo App</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;400;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/style.css" />
+    <script src="/script.js" defer></script>
+</head>
+<body>
+<header>
+  <h1>
+    To-Do App
+  </h1>
+  <main>
+    <div class="new">
+    
+    
+    <input type="text" placeholder="Add new item" id="new" class="new-input">
+    
+    <button id="add" class="new-button" disabled="true"> Add
+       </div>
+    </button>
+  <ul id="tasks">
+    </ul></main>
+  
+  <template id="taskTemplate">
+<li>
+    <label class="item">
+  <input class="item-check" type="checkbox">
+  <span class="item-text"></span>
+  <button class="delete">delete</button>
+  </label>
+    </li>
+  </template>
+  
+  </header>
+</body>
+</html>
