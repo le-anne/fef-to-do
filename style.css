@@ -1,7 +1,6 @@
 html {
-  font-family: 'Lora', serif;
-  background-color: #D03A06;
-  background: url(https://i.ibb.co/VHRcqQP/pexels-neosiam-4498792.jpg) no-repeat center;
+  font-family: 'Amaranth';
+  background-color: #046865;
 }
 
 body {
@@ -46,12 +45,12 @@ h1 {
 }
 
 .new-button:hover {
-  background-color: #FB631C;
+  background-color: #438E8C;
   cursor: pointer;
 }
 
 .new-button:disabled {
-  background-color: #FEF698;
+  background-color: #E0ECEC;
   cursor: default;
 }
 
