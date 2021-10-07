@@ -22,7 +22,7 @@ button {
 
 header {
   background-color: #046865;
-  opacity: 1;
+  opacity: 1 !important;
   color: white;
   padding: 10px;
   font-size: 1.2rem;
