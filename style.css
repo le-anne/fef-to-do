@@ -12,8 +12,16 @@ body {
   margin: 1rem auto;
 }
 
+input {
+    font-family: 'Amaranth';
+}
+
+button {
+    font-family: 'Amaranth';
+}
+
 header {
-  background-color: #62A19F;
+  background-color: #046865;
   color: white;
   padding: 10px;
   font-size: 1.2rem;
