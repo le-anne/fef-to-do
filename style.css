@@ -1,7 +1,6 @@
 html {
   font-family: 'Amaranth';
 background-color: #e5e5f7;
-opacity: 0.6;
 background-image:  linear-gradient(30deg, #046865 12%, transparent 12.5%, transparent 87%, #046865 87.5%, #046865), linear-gradient(150deg, #046865 12%, transparent 12.5%, transparent 87%, #046865 87.5%, #046865), linear-gradient(30deg, #046865 12%, transparent 12.5%, transparent 87%, #046865 87.5%, #046865), linear-gradient(150deg, #046865 12%, transparent 12.5%, transparent 87%, #046865 87.5%, #046865), linear-gradient(60deg, #04686577 25%, transparent 25.5%, transparent 75%, #04686577 75%, #04686577), linear-gradient(60deg, #04686577 25%, transparent 25.5%, transparent 75%, #04686577 75%, #04686577);
 background-size: 80px 140px;
 background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
